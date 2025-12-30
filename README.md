@@ -57,9 +57,9 @@ Follow the steps below:
 
 ### Backend Setup
 
-1. Open Command Prompt or Terminal and navigate to the backend folder:
+1.Open Command Prompt or Terminal and navigate to the backend folder:
 
-```bash
+##  ```bash
 cd "C:\Users\madxr\OneDrive\Documents\Desktop\realtime-chat-app\backend"
 
 2.Install all dependencies:
