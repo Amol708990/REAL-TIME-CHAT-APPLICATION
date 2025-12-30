@@ -127,3 +127,9 @@ Integrating frontend and backend into a fully functional application
 Testing multiple clients in real-time
 
 Handling message broadcasting and basic chat functionalities
+
+
+## OUTPUT :
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/28ce78ff-75f0-47cb-bccc-0868d1c14bbc" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8042bfde-1666-4a45-a204-aa7c9d80d524" />
